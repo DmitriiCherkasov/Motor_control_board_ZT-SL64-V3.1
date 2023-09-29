@@ -1,0 +1,4 @@
+../Core/Src/rotate_motor.c:11:6:rotate_motor	16	static
+../Core/Src/rotate_motor.c:17:6:set_row	16	static
+../Core/Src/rotate_motor.c:49:6:set_column	16	static
+../Core/Src/rotate_motor.c:78:6:set_start_position	8	static
